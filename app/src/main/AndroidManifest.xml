@@ -18,6 +18,15 @@
             android:label="@string/title_activity_main2"
             android:theme="@style/Theme.Credit" />
 
+        <activity android:name=".EvaluateActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Credit"/>
+
+        <activity android:name=".TableActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Credit"/>
+
+
     </application>
 
 </manifest>
